@@ -4,7 +4,23 @@ Unsupervised learning is one of three important categories of machine learning. 
 
 ## Summary of references
 Unsupervised Learning of Object Keypoints for Perception and Control   
-- In this paper, the author learns the original video through the unsupervised learning method, and uses the key bottleneck to transfer the image features between video frames, which can track the object more accurately in a longer time range. People can flexibly represent key points of the object for effective control and reinforcement learning.   
+- In this paper, the author learns the original video through the unsupervised learning method, and uses the key bottleneck to transfer the image features between video frames, which can track the object more accurately in a longer time range. People can flexibly represent key points of the object for effective control and reinforcement learning.  
+Unsupervised natural image patch learning
+- In this paper, for unlabeled images, the authors used an unsupervised method of embedding natural image patches. The similarity of the two patches can be understood from the prevalence of spatial similarity in natural images.
+
+## Pros & Cons
+### Pros
+- The data sets processed by unsupervised learning do not require tags, and the range of unsupervised learning applications is extensive.
+- Unsupervised learning can analyze and extract similar features of a data set.
+- Unsupervised learning has a variety of methods such as K-means, self-encoders, and principal component analysis.
+
+### Cons
+- Unsupervised learning has limitations and sometimes does not yield satisfactory results.
+- The results of unsupervised learning are often inferior to supervised learning.
+
+## Recommendations
+
 
 ## References
 [1] Unsupervised Learning of Object Keypoints for Perception and Control.Tejas Kulkarni, Ankush Gupta, Catalin Ionescu, Sebastian Borgeaud, Malcolm Reynolds, Andrew Zisserman, Volodymyr Mnih.
+[2] Unsupervised natural image patch learning.Dov Danon, Hadar Averbuch-Elor, Ohad Fried, and Daniel Cohen-Or.Computational Visual Media.Vol.5, No.3, September 2019, 229–237.
