@@ -20,6 +20,9 @@ Unsupervised natural image patch learning
 - The results of unsupervised learning are often inferior to supervised learning.
 
 ## Recommendations
+Unsupervised learning is useful when dealing with unlabeled data sets. If you want to understand unsupervised learning, I think we must first understand the meaning and application scenarios of unsupervised learning, and then understand some of the algorithms that are often used. We need to understand the principles of these algorithms, the effects, and their advantages and disadvantages, and then implement these algorithms in code. When applied to a dataset, we first need to analyze the dataset and then process the dataset using the appropriate algorithm.
+
+## Conclusions
 
 
 ## References
