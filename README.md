@@ -23,7 +23,7 @@ Unsupervised natural image patch learning
 Unsupervised learning is useful when dealing with unlabeled data sets. If you want to understand unsupervised learning, I think we must first understand the meaning and application scenarios of unsupervised learning, and then understand some of the algorithms that are often used. We need to understand the principles of these algorithms, the effects, and their advantages and disadvantages, and then implement these algorithms in code. When applied to a dataset, we first need to analyze the dataset and then process the dataset using the appropriate algorithm.
 
 ## Conclusions
-
+Unsupervised learning is primarily used to process unlabeled data sets. It contains a variety of processing methods, such as K-means algorithm, hierarchical clustering algorithm, t-SNE clustering, principal component analysis and so on. When using unsupervised learning, select the appropriate algorithm based on the characteristics of the data set to obtain a more excellent clustering effect.
 
 ## References
 [1] Unsupervised Learning of Object Keypoints for Perception and Control.Tejas Kulkarni, Ankush Gupta, Catalin Ionescu, Sebastian Borgeaud, Malcolm Reynolds, Andrew Zisserman, Volodymyr Mnih.   
