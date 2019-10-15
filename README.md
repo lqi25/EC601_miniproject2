@@ -5,3 +5,6 @@ Unsupervised learning is one of three important categories of machine learning. 
 ## Summary of references
 Unsupervised Learning of Object Keypoints for Perception and Control   
 - In this paper, the author learns the original video through the unsupervised learning method, and uses the key bottleneck to transfer the image features between video frames, which can track the object more accurately in a longer time range. People can flexibly represent key points of the object for effective control and reinforcement learning.   
+
+## References
+[1] Unsupervised Learning of Object Keypoints for Perception and Control.Tejas Kulkarni, Ankush Gupta, Catalin Ionescu, Sebastian Borgeaud, Malcolm Reynolds, Andrew Zisserman, Volodymyr Mnih.
