@@ -6,8 +6,12 @@ Unsupervised learning is one of three important categories of machine learning. 
 Unsupervised Learning of Object Keypoints for Perception and Control   
 - In this paper, the author learns the original video through the unsupervised learning method, and uses the key bottleneck to transfer the image features between video frames, which can track the object more accurately in a longer time range. People can flexibly represent key points of the object for effective control and reinforcement learning.     
 
-Unsupervised natural image patch learning
-- In this paper, for unlabeled images, the authors used an unsupervised method of embedding natural image patches. The similarity of the two patches can be understood from the prevalence of spatial similarity in natural images.
+Unsupervised Natural Image Patch Learning
+- In this paper, for unlabeled images, the authors used an unsupervised method of embedding natural image patches. The similarity of the two patches can be understood from the prevalence of spatial similarity in natural images.   
+
+Unsupervised learning of Consensus Maximization for 3D Vision Problems
+- In this paper,
+
 
 ## Pros & Cons
 ### Pros
@@ -27,4 +31,7 @@ Unsupervised learning is primarily used to process unlabeled data sets. It conta
 
 ## References
 [1] Unsupervised Learning of Object Keypoints for Perception and Control.Tejas Kulkarni, Ankush Gupta, Catalin Ionescu, Sebastian Borgeaud, Malcolm Reynolds, Andrew Zisserman, Volodymyr Mnih.   
+
 [2] Unsupervised natural image patch learning.Dov Danon, Hadar Averbuch-Elor, Ohad Fried, and Daniel Cohen-Or.Computational Visual Media.Vol.5, No.3, September 2019, 229–237.
+
+[3] Unsupervised learning of Consensus Maximization for 3D Vision Problems.Thomas Probst, Danda Pani Paudel, Ajad Chhatkuli, Luc Van Gool.Computer Vision Laboratory, ETH Zurich, Switzerland.
