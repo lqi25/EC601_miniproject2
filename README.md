@@ -10,7 +10,7 @@ Unsupervised Natural Image Patch Learning
 - In this paper, for unlabeled images, the authors used an unsupervised method of embedding natural image patches. The similarity of the two patches can be understood from the prevalence of spatial similarity in natural images.   
 
 Unsupervised learning of Consensus Maximization for 3D Vision Problems
-- In this paper,
+- It is difficult to use supervised learning in 3D vision. In order to solve some problems in 3D vision, this paper uses unsupervised learning that can adapt to any data distribution to achieve consensus maximization. With this method, we solved the problems in 3D vision such as 3D-3D matching, image-to-image matching, and the like. The result of this method is better than RANSAC.
 
 
 ## Pros & Cons
