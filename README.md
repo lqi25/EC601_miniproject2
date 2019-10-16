@@ -13,8 +13,7 @@ Unsupervised learning of Consensus Maximization for 3D Vision Problems
 - It is difficult to use supervised learning in 3D vision. In order to solve some problems in 3D vision, this paper uses unsupervised learning that can adapt to any data distribution to achieve consensus maximization. With this method, we solved the problems in 3D vision such as 3D-3D matching, image-to-image matching, and the like. The result of this method is better than RANSAC.   
 
 Guiding new physics searches with unsupervised learning
-- In this paper,
-
+- In order to obtain new phenomena in the data, this paper proposes a scientific application based on unsupervised learning to detect the difference between two data sets. This method can be applied to synthesis of Gaussian data and the like.
 
 ## Pros & Cons
 ### Pros
