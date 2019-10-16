@@ -10,7 +10,10 @@ Unsupervised Natural Image Patch Learning
 - In this paper, for unlabeled images, the authors used an unsupervised method of embedding natural image patches. The similarity of the two patches can be understood from the prevalence of spatial similarity in natural images.   
 
 Unsupervised learning of Consensus Maximization for 3D Vision Problems
-- It is difficult to use supervised learning in 3D vision. In order to solve some problems in 3D vision, this paper uses unsupervised learning that can adapt to any data distribution to achieve consensus maximization. With this method, we solved the problems in 3D vision such as 3D-3D matching, image-to-image matching, and the like. The result of this method is better than RANSAC.
+- It is difficult to use supervised learning in 3D vision. In order to solve some problems in 3D vision, this paper uses unsupervised learning that can adapt to any data distribution to achieve consensus maximization. With this method, we solved the problems in 3D vision such as 3D-3D matching, image-to-image matching, and the like. The result of this method is better than RANSAC.   
+
+Guiding new physics searches with unsupervised learning
+- In this paper,
 
 
 ## Pros & Cons
@@ -34,4 +37,8 @@ Unsupervised learning is primarily used to process unlabeled data sets. It conta
 
 [2] Unsupervised natural image patch learning.Dov Danon, Hadar Averbuch-Elor, Ohad Fried, and Daniel Cohen-Or.Computational Visual Media.Vol.5, No.3, September 2019, 229–237.
 
-[3] Unsupervised learning of Consensus Maximization for 3D Vision Problems.Thomas Probst, Danda Pani Paudel, Ajad Chhatkuli, Luc Van Gool.Computer Vision Laboratory, ETH Zurich, Switzerland.
+[3] Unsupervised learning of Consensus Maximization for 3D Vision Problems.Thomas Probst, Danda Pani Paudel, Ajad Chhatkuli, Luc Van Gool.Computer Vision Laboratory, ETH Zurich, Switzerland.   
+
+[4] Guiding new physics searches with unsupervised learning.Andrea De Simone, Thomas Jacques.The European Physical Journal C.April 2019, 79:289.
+
+
