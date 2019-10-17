@@ -41,9 +41,13 @@ Unsupervised learning is primarily used to process unlabeled data sets. It conta
 [4] Guiding new physics searches with unsupervised learning.Andrea De Simone, Thomas Jacques.The European Physical Journal C.April 2019, 79:289.
 
 ## Summary of other reports
-### Yuan Wei
+### Yuan Wei's Report
 - This report introduces the structure and main methods of object segmentation based on machine learning.    
-- In object segmentation, neural networks play an important role. In the upsampling method, the pooling and unpooling operations can change the sampling of the resolution. Transposed convolution has a better effect and can be used to build upsampled learning. A full convolutional network is another convenient method. The network can meet the needs of any size input and produce an output of corresponding size. The convenience of the U-Net architecture is that the stacked convolutional layers can be replaced with advanced "blocks".
+- In object segmentation, neural networks play an important role. In the upsampling method, the pooling and unpooling operations can change the sampling of the resolution. Transposed convolution has a better effect and can be used to build upsampled learning. A full convolutional network is another convenient method. The network can meet the needs of any size input and produce an output of corresponding size. The convenience of the U-Net architecture is that the stacked convolutional layers can be replaced with advanced "blocks".   
+
+### Lin Yufeng's Report
+- This report uses Tensorflow for image classification and gives the results.
+- Tensorflow has a good effect on image processing and can be used to identify images and classify images. In Lin's attempt, 60,000 images were used to train the model, which achieved good results. So when using machine learning, a large training data set is very important.
 
 
 
