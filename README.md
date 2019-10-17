@@ -49,5 +49,12 @@ Unsupervised learning is primarily used to process unlabeled data sets. It conta
 - This report uses Tensorflow for image classification and gives the results.
 - Tensorflow has a good effect on image processing and can be used to identify images and classify images. In Lin's attempt, 60,000 images were used to train the model, which achieved good results. So when using machine learning, a large training data set is very important.
 
+### Xia Yaqun's Report
+- This report summarizes two articles and details the advantages and disadvantages of unsupervised learning and learning methods.
+- Unsupervised learning is less complex than supervised learning and has low requirements for data sets. In unsupervised learning, there is no need to mark data sets. However, unsupervised learning cannot determine the results of the analysis. In practical applications, supervised learning often yields better results.
+
+### Jiang Lingtao's Report
+- This report introduces the principle of image recognition using a computer and the image recognition algorithm YOLO
+- In a computer, an image is actually a two-dimensional matrix. Image pairs can be classified by taking key features of the matrix. The prediction module required in image recognition can be done with neural networks. YOLO uses only convolutional layers for efficient object detection.
 
 
